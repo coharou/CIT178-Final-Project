@@ -1,5 +1,6 @@
 # CIT178-Final-Project
-///------------------------------ PROJECT DESCRIPTION ------------------------------///
+PROJECT DESCRIPTION:
+
 Final project submission for CIT 178. Includes SQL scripts for creating a database that includes information on video games.
 These scripts create six tables: GameInfo, Purchases, Developers, Modding, Reviews, and ActivityLog.
 1) GameInfo includes basic information about a given game. Namely, the release date, title, and genre.
