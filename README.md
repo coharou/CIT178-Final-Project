@@ -1,7 +1,5 @@
 # CIT178-Final-Project
-///------------------------------
-///     PROJECT DESCRIPTION
-///------------------------------
+///------------------------------ PROJECT DESCRIPTION ------------------------------///
 Final project submission for CIT 178. Includes SQL scripts for creating a database that includes information on video games.
 These scripts create six tables: GameInfo, Purchases, Developers, Modding, Reviews, and ActivityLog.
 1) GameInfo includes basic information about a given game. Namely, the release date, title, and genre.
@@ -11,8 +9,6 @@ These scripts create six tables: GameInfo, Purchases, Developers, Modding, Revie
 5) Reviews can include any newspaper or website reviews on a game. This stores the article's URL, when it was published, and the rating score.
 6) ActivityLog holds records on the games that the user might have played. The main information stored is what game was played, what date it was played, and how much time was spent playing it by the user.
 
-///------------------------------
-///     CONTACT INFORMATION
-///------------------------------
+///------------------------------ CONTACT INFORMATION ------------------------------///
 Author: Colin Haroutunian
 Email:  haroutc@mail.nmc.edu
