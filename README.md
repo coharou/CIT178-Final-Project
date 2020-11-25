@@ -11,6 +11,7 @@ These scripts create six tables: GameInfo, Purchases, Developers, Modding, Revie
 6) ActivityLog holds records on the games that the user might have played. The main information stored is what game was played, what date it was played, and how much time was spent playing it by the user.
 
 
+
 ///-------- CONTACT INFORMATION --------///
 
 Author: Colin Haroutunian
