@@ -12,6 +12,13 @@ These scripts create six tables: GameInfo, Purchases, Developers, Modding, Revie
 
 
 
+///-------- COPYRIGHT INFORMATION --------///
+Do not reuse the scripts published here without permission from the author first.
+
+On reuse of the files, it is suggested that the inserted example data be changed.
+
+
+
 ///-------- CONTACT INFORMATION --------///
 
 Author: Colin Haroutunian
